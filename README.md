@@ -18,4 +18,4 @@ Link to deployed code:  <https://github.com/shannontice/Password_Generator>
 
 The following image shows the web application's appearance and functionality:
 
-![The Password Generator includes several pop-up prompts to gather password criteria and a functional 'generate password' button to create alternate password options.]
+![The Password Generator includes several pop-up prompts to gather password criteria and a functional 'generate password' button to create alternate password options.](./images/Password%20Generation%20Mock-up.png)
